@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrdnPwll70
 - 👀 I’m interested in learing different methods of programming and furthering my knowledge of the industry.
-- 🌱 I’m currently studying Computer Science at Illinois State University.
+- 🌱 I’m currently studying programming at Illinois State University.
 - 📫 How to reach me: I can be reached through my email llewopnodnarb@gmail.com
 
 <!---
